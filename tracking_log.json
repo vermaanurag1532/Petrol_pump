@@ -1,0 +1,17 @@
+{
+    "2": {
+        "class": "car",
+        "entry_time": "2024-12-27 22:31:55.548060",
+        "exit_time": null
+    },
+    "174": {
+        "class": "truck",
+        "entry_time": "2024-12-27 22:32:22.574563",
+        "exit_time": null
+    },
+    "176": {
+        "class": "car",
+        "entry_time": "2024-12-27 22:32:22.574563",
+        "exit_time": null
+    }
+}
